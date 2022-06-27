@@ -1,0 +1,41 @@
+
+body {
+   background: rgb(175, 171, 241);
+   color:rgb(0, 0, 0);
+   font-size: 18px;
+   font-weight: 550;
+   font-family: initial;
+
+}
+h1 {
+   color:rgb(36, 3, 53)
+}
+h2 {
+   color:rgb(36, 3, 53)
+}
+.photo {
+   width: 200px;
+   border-radius: 100px;
+}
+.info {
+   margin: 0;
+   font-style: italic;
+}
+/*
+.social {
+background: rgb(255, 255, 255);
+padding: 18px;
+border: 5px solid black;
+margin: 10px;
+} */
+
+a{
+text-decoration: none;}
+a:hover {
+   text-decoration: underline;
+}
+
+.container {
+   max-width: 750px;
+   margin: auto;
+}
